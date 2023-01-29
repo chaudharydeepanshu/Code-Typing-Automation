@@ -11,7 +11,7 @@ This Python script uses the PyAutoGUI library to simulate typing code into the 
 ## 📋 Requirements
 
 - [🐍 Python 3.x](https://www.python.org/downloads/)
-- [🛠️ PyAutoGUI library](https://pypi.org/project/PyAutoGUI/): To install it using pip run the following command `pip install PyAutoGUI`
+- [🛠️ PyAutoGUI library](https://pypi.org/project/PyAutoGUI/): To install it using pip run the following command `pip install pyautogui`
 
 ## 🚀 Usage
 
