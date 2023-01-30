@@ -56,9 +56,9 @@ if REMOVE_INDENTATION:
 if SKIP_CLOSING_BRACKETS:
     for char in code:
         if char in ["}"]:
-            pyautogui.press("down")
+            pyautogui.hotkey("shiftright", "down")
         elif char in [")"]:
-            pyautogui.press("right")
+            pyautogui.hotkey("shiftright", "right")
         else:
             pyautogui.press(char)
 else:
